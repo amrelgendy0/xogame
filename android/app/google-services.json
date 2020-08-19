@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "77072951441",
+    "firebase_url": "https://xoxoxo-3784e.firebaseio.com",
+    "project_id": "xoxoxo-3784e",
+    "storage_bucket": "xoxoxo-3784e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:77072951441:android:bf4f5e6e6d8f31016b7730",
+        "android_client_info": {
+          "package_name": "com.example.xogame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "77072951441-drsap83fccghjhkqlun205prro4b1igg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEu1cPxIAAPRRRjMRoZp_WKsuWM6iGBBs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "77072951441-drsap83fccghjhkqlun205prro4b1igg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
